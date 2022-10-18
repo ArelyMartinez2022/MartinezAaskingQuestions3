@@ -1,0 +1,15 @@
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/bin/Debug/net6.0/MartinezAaskingQuestions3
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/bin/Debug/net6.0/MartinezAaskingQuestions3.deps.json
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/bin/Debug/net6.0/MartinezAaskingQuestions3.runtimeconfig.json
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/bin/Debug/net6.0/MartinezAaskingQuestions3.dll
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/bin/Debug/net6.0/MartinezAaskingQuestions3.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.dll
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/refint/MartinezAaskingQuestions3.dll
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/MartinezAaskingQuestions3.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/redo/MartinezAaskingQuestions3/obj/Debug/net6.0/ref/MartinezAaskingQuestions3.dll
