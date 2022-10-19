@@ -13,3 +13,6 @@ EXAMPLE: "YOUR NAME IS ARELY & YOU WOKE
 UP AT 7:20 AM"
 
 PEER REVIEW: NAME -- REVIEW
+I Peer Review Arely's program, and I was able to validate the game, and confirm its functions. 
+The program is running, as intended. I do like that all letters are Capital., it will take user input in lower case, and upper case letters. Also when inputing the time, it will take intergers as string. 
+Chris Martinez 10/18/22
